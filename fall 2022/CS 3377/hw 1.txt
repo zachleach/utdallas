@@ -1,0 +1,27 @@
+CS 3377 System Prog. in Unix and other Envs.
+Assignment 1
+Due: Monday, Aug 29:  11:59 PM (on elearning).
+
+There are two parts to this assignment.
+
+A. Login to any one of the cs servers (cs1/cs/cs3) and execute the following tasks using appropriate commands:
+	1. find the current working directory
+	2. create a new directory '3377' (if it is already there, your command may fail. It is ok.)
+	3. change to directory '3377'
+	4. create directory 'd1'
+	5. change to directory 'd1'
+	6. by using a command only once create directories 'x', 'y', and 'z' (all at once)
+	7. list the contents of the current working directory
+	8. by using a command only once create directories x1/x2/x3 (x3 is in x2 which is in x1)
+	9. change to dir 'y'
+	10. create an empty file 'y1'
+	11. list the directory y to show that you have created an empty file (size should be 0)
+	12. change to 3377
+	13. Your final task is to figure out how to remove dir 'd1' and everything under it in one command. Check the man page for rm. Find out the option to remove everything in one command. Note that rm prompts you for confirmation. Find out the option to suppress the prompt. Be careful with this option. DO NOT EXECUTE FROM YOU HOME DIRECTORY. YOU WILL WIPE OUT EVERYTHING.
+	
+	Take a screen shot (or a picture) showing the commands used and their output. Upload it to elearning. Open a separate terminal for viewing man pages. Your output will be clean. Capture only the relevant part, not the entire screen (you can try 'snipping tool' on windows.)
+
+
+B. Listen to the TED talk on free software by Stallman. (Link is provided in the first lecture slides.) Do you agree with him? Post your opinion in 'free software' thread on the discussion board. Your opinion should be brief (just one or two lines). Respect other's opinion. Please do not respond to others' post on this topic.
+If you agree with Stallman, replace one of the proprietary software you are using now with a free software. Check https://www.fsf.org/resources/.
+PDf reader is an easy choice.
