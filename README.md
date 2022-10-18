@@ -1,5 +1,3 @@
-# ut dallas
-a backup of all my coursework files
+a backup of all my coursework files.
 
-# csmc
-computer science fundamentals coursework resources
+see csmc folder for discrete math and computer architecture help.
